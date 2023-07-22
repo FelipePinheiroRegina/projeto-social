@@ -1,6 +1,7 @@
 # 🟣Redes sociais🟣
 Projeto simulando um celular na WEB, podendo clicar para ver as redes sociais, utilizando Iframe.
-- Projeto <a href="https://felipepinheiroregina.github.io/projeto-social/index" target="_blank">Acesse</a>
+
+- Projeto [Acesse](https://felipepinheiroregina.github.io/projeto-social/index)
 - Repositório
    - [Index](https://github.com/FelipePinheiroRegina/projeto-social/blob/main/index.html)
    - [CSS Principal](https://github.com/FelipePinheiroRegina/projeto-social/blob/main/estilos/style.css)
